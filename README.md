@@ -2,7 +2,7 @@
 
 The Travel Blog is a web app that works on top of Next.js, HyGraphQL technologies and it is hosted on Vercel.  
 if you want to check a live version of this repository click the following link: 
-travel-blog-project.vercel.app 
+https://travel-blog-project.vercel.app/
 
 ## Installation
 
