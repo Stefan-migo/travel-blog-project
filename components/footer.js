@@ -13,10 +13,10 @@ const Footer = () => {
                 <h5>Web page created by Stefan Miranda</h5>
             </div>
             <div className={style.snicons}>
-                <Link href='https://github.com/Stefan-migo'>
+                <Link href='https://www.instagram.com/leberland/'>
                     <a><AiFillInstagram /></a>
                 </Link>
-                <Link href='https://www.instagram.com/leberland/'>
+                <Link href='https://github.com/Stefan-migo'>
                     <a><AiOutlineGithub /></a>
                 </Link>
                 <Link href='https://www.linkedin.com/in/stefan-miranda-gonzalez-787387118/'>
